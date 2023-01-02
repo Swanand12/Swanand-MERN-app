@@ -1,0 +1,102 @@
+/* .navbar navbar-expand-lg navbar-light bg-light{
+    display: flex;
+    justify-content: space-between;
+} */
+/* {
+    /* color: white; */
+    /* width: 100%; */
+*{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.fullnav{
+    background-color:black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.color-white{
+    color: white;
+}
+.logo{
+    padding-left: 2rem;
+    font-size: 3rem;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#navbar-Supported-Content{
+    display: flex;
+    justify-content: flex-end;
+    /* align-items: center; */
+    padding-right: 2rem;
+}
+.nav-link{
+    display: flex;
+    align-items: flex-end;
+    background-color: #e50914;
+    border-radius: 0.5rem;
+    font-weight: bold;
+}
+ul{
+    color: white;
+}
+/* .creat-btn{
+    margin-top: 3rem;
+} */
+.body{height: 90vh;
+    /* background-color: orange; */
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: black;
+    color: white;
+}
+form{
+    padding-top: 0.4rem;
+}
+.form-group{
+    padding-bottom: 1rem;
+}
+.submit{
+    /* background-color: #e50914; */
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    background-color:orange; 
+    border: none;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.btn:hover{
+    background-color:rgb(204, 133, 0);
+    color: black;
+}
+
+.btn-green{
+    background-color: green;
+}
+
+.btn-green:hover{
+    background-color: rgb(2, 173, 2);
+}
+
+.table1{
+    border: 10px orange;
+    width: 90%;
+    text-align: justify;
+    margin:70px;
+    padding:0%;
+
+}
+.update-details{
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+     align-items: center;
+     background-color:black;
+     color: white;
+     /* padding-top: 7rem; */
+    
+}
